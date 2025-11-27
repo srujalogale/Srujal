@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="banner.png" alt="Srujal Ogale GitHub Banner" />
+</p>
 <h1 align="center">Hi 👋, I'm Srujal Sunil Ogale</h1>
 <h3 align="center">I’m a Computer Engineering student (4th year) with a strong interest in Data Science, Machine Learning, and Full-Stack Web Development.</h3>
 
