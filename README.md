@@ -13,7 +13,7 @@ Computer Engineering Student | Full Stack Developer | AI & Data Science Enthusia
 
 ## 🚀 About Me
 
-- 🎓 Final-year Computer Engineering student from Pune, India
+- 🎓 Computer Engineering student from Pune, India
 - 🤖 Passionate about AI, Machine Learning, Agentic AI, and RAG systems
 - 🌐 Building scalable full-stack web applications using React and Node.js
 - 📊 Interested in Data Science, Analytics, and AI-powered products
