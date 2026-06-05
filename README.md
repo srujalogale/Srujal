@@ -1,3 +1,4 @@
+![Alt text](path/to/img.png)
 <h1 align="center">Hi 👋, I'm Srujal Sunil Ogale</h1>
 <h3 align="center">
 Computer Engineering | Full Stack Developer | AI & Data Science Enthusiast
