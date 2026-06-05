@@ -101,17 +101,7 @@ https://github.com/srujalogale/Customer-Churn-Prediction
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=srujalogale&show_icons=true&theme=tokyonight&hide_border=true" 
-    height="180em" 
-  />
 
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=srujalogale&layout=compact&theme=tokyonight&hide_border=true" 
-    height="180em" 
-  />
-</p>
 
 <p align="center">
   <img 
