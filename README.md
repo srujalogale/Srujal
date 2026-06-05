@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Srujal Sunil Ogale</h1>
 <h3 align="center">
-Computer Engineering Student | Full Stack Developer | AI & Data Science Enthusiast
+Computer Engineering | Full Stack Developer | AI & Data Science Enthusiast
 </h3>
 
 <p align="center">
